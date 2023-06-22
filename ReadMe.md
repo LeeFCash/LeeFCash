@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeeFCash
 - 👀 I’m interested in coding/programming (web development)
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning what I can to make myself better
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leecash133@gmail.com
 
